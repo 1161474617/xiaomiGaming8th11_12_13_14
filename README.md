@@ -7,10 +7,12 @@
 #### 安装教程
 按照文件夹名称使用
 
-BigSur的ota和全新安装都要用第一个EFI！！！
+#### macOS 11
+ota和全新安装都要用第一个EFI！！！
 直接用第二个EFI不能正常安装！！！
 
-10.15.x可以直接用第二个EFI
+#### macOS 10.15.x
+可以直接用第二个EFI
 
 gitee(码云)地址：https://gitee.com/a1161474617/xiaomiGaming8thBigSur.git
 
