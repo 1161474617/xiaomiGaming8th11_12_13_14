@@ -1,4 +1,4 @@
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0722/215230_2bc6f5a0_2204991.png)# xiaomiGaming8thBigSur
+![输入图片说明](https://github.com/1161474617/xiaomiGaming8thBigSur/blob/master/BigSur.png)# xiaomiGaming8thBigSur
 
 #### 介绍
 小米游戏本8代U的macOS 11 BigSur和macOS 10.15.x 黑苹果EFI
