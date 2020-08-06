@@ -11,10 +11,12 @@
 ~~ota和全新安装都要用第一个EFI！！！
 直接用第二个EFI不能正常安装！！！~~
 #### macOS 11（beta4）
-支持直接安装，不需要-v看代码，安装之前最好在选择系统的时候点击空格选择执行resetnvram
+
+安装和使用变成同一个EFI  支持直接安装，不需要-v看代码，安装之前最好在选择系统的时候点击空格选择执行resetnvram 
 
 #### macOS 10.15.x
 ~~可以直接用第二个EFI~~
+可以直接使用最新的EFI
 
 gitee(码云)地址：https://gitee.com/a1161474617/xiaomiGaming8thBigSur.git
 
