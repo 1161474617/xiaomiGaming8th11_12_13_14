@@ -10,7 +10,7 @@
 直接使用EFIBigsur文件的opencore 分两个阶段安装
 #### macOS 11（beta4~beta7）
 直接使用EFI文件的opencore就可以直接安装不需要-v看代码，安装之前最好在选择系统的时候点击空格选择执行resetnvram 
-
+#### 务必解锁cfglock！！！解锁cfglock！！！解锁cfglock！！！ ####
 #### 目前正常运行的硬件 ####
 1.英特尔核心显卡
 2.英特尔无线网卡（airport）
