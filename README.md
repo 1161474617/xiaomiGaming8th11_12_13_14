@@ -8,7 +8,7 @@
 按照文件夹名称使用
 #### macOS 11（beta3之前）
 直接使用EFIBigsur文件的opencore 分两个阶段安装
-#### macOS 11（beta4~beta7）
+#### macOS 11（正式版以及11.1 beta）
 直接使用EFI文件的opencore就可以直接安装不需要-v看代码，安装之前最好在选择系统的时候点击空格选择执行resetnvram 
 #### 务必解锁cfglock！！！解锁cfglock！！！解锁cfglock！！！ ####
 #### 目前正常运行的硬件 ####
