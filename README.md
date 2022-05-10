@@ -26,7 +26,7 @@ xiaomiGaming8thBigSurAndMonterey
 7.USB接口
 8.有线网卡
 9.CPU（cpufriend实现变频从3.3GHz上升到3.89Ghz）
-10.typeC接口外界显示器
+10.typeC接口外接显示器
 #### 目前无法正常运行的硬件 ####
 英伟达独显
 
