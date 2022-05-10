@@ -28,12 +28,8 @@ xiaomiGaming8thBigSurAndMonterey
 9.CPU（cpufriend实现变频从3.3GHz上升到3.89Ghz）
 10.typeC接口外接显示器
 #### 目前无法正常运行的硬件 ####
-英伟达独显
+英伟达独显（现在所有英伟达显卡都无法驱动）
 
 #### 目前更新 ####
 更新到截止上传时间 最新的所有驱动
 所有驱动均来自github的发布版本
-
-
-
-
