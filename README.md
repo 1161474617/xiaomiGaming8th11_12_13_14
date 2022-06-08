@@ -1,8 +1,10 @@
-![输入图片说明](https://github.com/1161474617/xiaomiGaming8th11_12_13/blob/master/BigSur.png)# 
-![输入图片说明](https://github.com/1161474617/xiaomiGaming8th11_12_13/blob/master/macOS13.png)# 
+#### macOS11 ####
+![macOS11](https://github.com/1161474617/xiaomiGaming8th11_12_13/blob/master/BigSur.png)
+#### macOS13 ####
+![macOS13](https://github.com/1161474617/xiaomiGaming8th11_12_13/blob/master/macOS13.png)
 
-xiaomiGaming8thBigSurAndMonterey
-#### 介绍
+#### xiaomiGaming8th11_12_13 #### 
+#### 介绍#### 
 小米游戏本8代U的macOS 11 BigSur 以及 Monterey黑苹果EFI
 ---我的电脑是i7-8750H 实测可用
 
