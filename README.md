@@ -1,4 +1,6 @@
-![输入图片说明](https://github.com/1161474617/xiaomiGaming8thBigSur/blob/master/BigSur.png)# 
+![输入图片说明](https://github.com/1161474617/xiaomiGaming8th11_12_13/blob/master/BigSur.png)# 
+![输入图片说明](https://github.com/1161474617/xiaomiGaming8th11_12_13/blob/master/macOS13.png)# 
+
 xiaomiGaming8thBigSurAndMonterey
 #### 介绍
 小米游戏本8代U的macOS 11 BigSur 以及 Monterey黑苹果EFI
@@ -30,6 +32,6 @@ xiaomiGaming8thBigSurAndMonterey
 #### 目前无法正常运行的硬件 ####
 英伟达独显（现在所有英伟达显卡都无法驱动）
 
-#### 目前更新 ####
-更新到截止上传时间 最新的所有驱动
-所有驱动均来自github的发布版本
+#### macOS 13 ####
+目前Wi-Fi不能使用，还有很多不稳定因素，诸多驱动未支持macOS13（git出了问题只能上传123云盘）
+https://www.123pan.com/s/tUTrVv-Fdu9d 提取码:1161
