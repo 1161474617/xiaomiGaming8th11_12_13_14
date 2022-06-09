@@ -35,5 +35,5 @@
 英伟达独显（现在所有英伟达显卡都无法驱动）
 
 #### macOS 13 ####
-目前Wi-Fi不能使用，还有很多不稳定因素，诸多驱动未支持macOS13（git出了问题只能上传123云盘）
-https://www.123pan.com/s/tUTrVv-Fdu9d 提取码:1161
+目前Wi-Fi不能使用，还有很多不稳定因素，诸多驱动未支持macOS13
+https://www.123pan.com/s/tUTrVv-Fdu9d 提取码:1161 (123云盘 文件都一样)
